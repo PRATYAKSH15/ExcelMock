@@ -78,8 +78,8 @@ ExcelMock/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/excel-mock-interviewer.git
-cd excel-mock-interviewer
+https://github.com/your-username/ExcelMock.git
+cd ExcelMock
 
 # 2. Create and activate virtual environment
 python -m venv venv
