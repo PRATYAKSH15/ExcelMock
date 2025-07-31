@@ -22,7 +22,7 @@ An intelligent AI-based Excel interview simulator for assessing candidate profic
 
 | Text Interview Mode | MCQ Test Mode | Dashboard |
 |---------------------|---------------|-----------|
-| ![Screenshot 1](screenshots/ss1.png) | ![Screenshot 2](screenshots/ss2.png) | ![Screenshot 3](screenshots/ss3.png) |
+| ![Screenshot 1](screenshots/ss1.png) | ![Screenshot 2](screenshots/ss3.png) | ![Screenshot 3](screenshots/ss2.png) |
 
 ---
 
